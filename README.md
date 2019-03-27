@@ -43,7 +43,8 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1-7 | cygwin | Windows 8 or above |
-| 8 | MySQL Community Server | Windows 8 or above
+| 8 | MySQL Community Server | Windows 8 or above |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789617450_ColorImages.pdf?).
 
@@ -60,28 +61,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **BM Harwani**
 is the founder of Microchip Computer Education based in Ajmer, India that provides computer literacy in programming and web development to learners of all ages. He further helps the community by sharing his knowledge and expertise of over 20 years of teaching through writing books. His recent publications include jQuery Recipes published by Apress, Introduction to Python Programming and Developing GUI Applications with PyQT published by Cengage Learning, The Android Tablet Developer's Cookbook published by Addison-Wesley Professional, UNIX & Shell Programming published by Oxford University Press, and Qt5 Python GUI Programming Cookbook published by Packt.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the authors
 [Qt5 Python GUI Programming Cookbook ](https://prod.packtpub.com/in/application-development/qt5-python-gui-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=)
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
