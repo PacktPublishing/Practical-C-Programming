@@ -53,9 +53,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On System Programming with C++ [[Packt]](https://prod.packtpub.com/in/application-development/hands-system-programming-c?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-789-13788-8)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **BM Harwani**
