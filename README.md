@@ -1,23 +1,24 @@
 # Practical C Programming
 
-<a href="https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781789617450 "><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/3624/2020/02/cover.png" alt="Practical C Programming" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781838641108 "><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/3624/2020/02/cover.png" alt="Practical C Programming" height="256px" align="right"></a>
 
-This is the code repository for [C Programming Cookbook](https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781789617450), published by Packt.
+This is the code repository for [Practical C Programming](https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781838641108), published by Packt.
 
-**Over 40 recipes exploring data structures, pointers, interprocess communication, and database in C**
+**Solutions for modern C developers to create efficient and well-structured programs**
 
 ## What is this book about?
-C is a high-level language popular among developers. It enables you to write drivers for different devices, access machine-level hardware, apply dynamic memory allocation, and much more. With self-contained tutorials, known as recipes, this book will guide you in dealing with C and its idiosyncrasies and help you benefit from its latest features.
+Practical C Programming will teach you how to deal with C and its idiosyncrasies, and benefit from its new features, through bite-sized recipes. Each recipe in the book addresses a specific problem through a discussion that reveals and explains the solution to the recipe. This book will teach all you need to know to become a better C programmer.
 
 This book covers the following exciting features:
-* Manipulate single and multi-dimensional arrays 
-* Perform complex operations on strings 
-* Understand how to use pointers and memory optimally 
-* Discover how to use arrays, functions, and strings to make large applications 
-* Use arrays, functions, and strings for making large applications 
-Implement multitasking using threads and communicate between processes 
-Apply networking concepts in communication 
-Store simple text into files and store data into a database 
+* Discover how to use arrays, functions, and strings to create large apps
+* Perform preprocessing and conditional compilation for efficient programming
+* Understand how to use pointers and memory optimally
+* Use general-purpose utilities and improve the performance of the code
+* Implement multitasking using threads and process synchronization
+* Explore low-level programming and inline assembly language
+* Understand how to use graphics for animation
+* Implement security while developing C programs
+* Establish communication between two or more processes using different techniques
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789617456) today!
 
