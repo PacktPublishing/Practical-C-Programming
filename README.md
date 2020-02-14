@@ -1,6 +1,6 @@
-# C Programming Cookbook
+# Practical C Programming
 
-<a href="https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781789617450 "><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12287_MockupCover.png" alt="C Programming Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781789617450 "><img src="https://packt-type-cloud.s3.amazonaws.com/uploads/sites/3624/2020/02/cover.png" alt="Practical C Programming" height="256px" align="right"></a>
 
 This is the code repository for [C Programming Cookbook](https://www.packtpub.com/application-development/c-programming-cookbook-0?utm_source=github&utm_medium=repository&utm_campaign=9781789617450), published by Packt.
 
